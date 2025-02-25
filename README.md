@@ -1,2 +1,2 @@
-#Dizin İzleme ve Loglama Servisi
+Dizin İzleme ve Loglama Servisi
 Bu projede, bir dizindeki dosya değişikliklerini takip eden ve bu değişiklikleri JSON formatında bir log dosyasına kaydeden bir Python servisi geliştirildi. Servis, Linux ortamında bir systemd servisi olarak yapılandırıldı ve sistem yeniden başlatıldığında otomatik olarak çalışacak şekilde ayarlandı. Bu proje için Virtualbox sanal makinesi yüklenip ubuntu kuruldu ve bash kodlama yapıldı.
